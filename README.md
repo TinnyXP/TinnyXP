@@ -17,7 +17,7 @@
 <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/ReactJS.svg" width="40" height="40" alt="ReactJS" /></a>
 <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/NextJS.svg" alt="NextJS" width="40" height="40"/></a> 
 <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Swift.svg" alt="Swift" width="40" height="40"/></a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Arduino.svg" alt="Arduino" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/f5a5274a08a079b963e6040d2151b3d7060b911b/SVG/Arduino.svg" alt="Arduino" width="40" height="40"/></a>
 <a href="https://cloud.google.com/dialogflow" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Dialogflow.svg" alt="Dialogflow" width="40" height="40"/></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Unity.svg" alt="Dialogflow" width="40" height="40"/></a>
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/510695290b4651c56510d103bece0ffb70581980/SVG/Unity.svg" alt="Dialogflow" width="40" height="40"/></a>
 </p>
