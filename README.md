@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Trin Pongsri 🧊</h1>
 <h3 align="center">A beginner UX/UI Designer & frontend developer from [🇹🇭]</h3>
 
-### Connect with me:
+### 📱 Connect with me:
 <p align="left">
 <a href="https://fb.com/trinpsri.11" target="blank"> <img align="center" src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Facebook.svg" alt="trin.psri" height="38" width="40" /></a> 
 <a href="https://instagram.com/trinpsri.11" target="blank"> <img align="center" src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Instagram.svg" alt="trinpsri.11" height="38" width="40" /></a>
 </p>
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 <p align="left"> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Figma.svg" alt="Figma" width="40" height="40"/></a> 
 <a href="https://www.adobe.com/th_en/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/illustrator.svg" alt="illustrator" width="40" height="40"/></a> 
@@ -21,3 +21,10 @@
 <a href="https://cloud.google.com/dialogflow" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Dialogflow.svg" alt="Dialogflow" width="40" height="40"/></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/510695290b4651c56510d103bece0ffb70581980/SVG/Unity.svg" alt="Dialogflow" width="40" height="40"/></a>
 </p>
+
+### 📊 Github Stats:
+<p align="left">&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=tinnyxp&show_icons=true&theme=cobalt&title_color=c4ccd4&text_color=c4ccd4&bg_color=11151b&hide_border=true&locale=en" alt="TinnyXP" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinnyxp&show_icons=true&theme=cobalt&title_color=c4ccd4&text_color=c4ccd4&bg_color=11151b&hide_border=true&locale=en&layout=compact" alt="TinnyXP" />
+</p>
+
