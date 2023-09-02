@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://fb.com/trinpsri.11" target="blank"> <img align="center" src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Facebook.svg" alt="trin.psri" height="38" width="40" /></a> 
 <a href="https://instagram.com/trinpsri.11" target="blank"> <img align="center" src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Instagram.svg" alt="trinpsri.11" height="38" width="40" /></a>
+<a href="https://linkedin.com/in/trinpsri11/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/ce815361744dd7525b9f3a4773f44666bcaccb7d/SVG/Linkedin.svg" alt="trin.psri" height="38" width="40" /></a> 
 </p>
 
 ### 🔧 Languages and Tools:
