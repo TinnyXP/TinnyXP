@@ -3,30 +3,112 @@
 
 ### 📱 Connect with me:
 <p align="left">
-<a href="https://fb.com/trinpsri.11" target="blank"> <img align="center" src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Facebook.svg" alt="trin.psri" height="38" width="40" /></a> 
-<a href="https://instagram.com/trinpsri.11" target="blank"> <img align="center" src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Instagram.svg" alt="trinpsri.11" height="38" width="40" /></a> 
-<a href="https://linkedin.com/in/trinpsri11/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/ce815361744dd7525b9f3a4773f44666bcaccb7d/SVG/Linkedin.svg" alt="trin.psri" height="38" width="40" /></a> 
-<a href="https://youtube.com/@TinnyXP" target="blank"> <img align="center" src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/a0f512eeb2af4cfd2cfb2668f72462d933ea20e7/SVG/Youtube.svg" alt="trin.psri" height="38" width="40" /></a> 
+  <a href="https://fb.com/trinpsri.11" target="blank" rel="noreferrer">
+    <img align="center"
+    src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Facebook.svg"
+    alt="trin.psri"
+    height="38" width="40"
+    />
+  </a>
+  <a href="https://instagram.com/trinpsri.11" target="blank" rel="noreferrer">
+    <img align="center"
+    src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Instagram.svg"
+    alt="trinpsri.11"
+    height="38" width="40"
+    />
+  </a>
+  <a href="https://linkedin.com/in/trinpsri11/" target="blank" rel="noreferrer">
+    <img align="center"
+    src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/ce815361744dd7525b9f3a4773f44666bcaccb7d/SVG/Linkedin.svg"
+    alt="trin.psri"
+    height="38" width="40"
+    />
+  </a>
+  <a href="https://youtube.com/@TinnyXP" target="blank" rel="noreferrer">
+    <img align="center"
+    src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/a0f512eeb2af4cfd2cfb2668f72462d933ea20e7/SVG/Youtube.svg"
+    alt="trin.psri"
+    height="38" width="40"
+    />
+  </a> 
 </p>
 
 ### 🔧 Languages and Tools:
-<p align="left"> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Figma.svg" alt="Figma" width="40" height="40"/></a> 
-<a href="https://www.adobe.com/th_en/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/illustrator.svg" alt="illustrator" width="40" height="40"/></a> 
-<a href="https://affinity.serif.com/en-us/designer" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/AffDesign.svg" width="40" height="40" alt="Affinity Design" /></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/JavaS.svg" alt="Javascript" width="40" height="40"/></a> 
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/TypeS.svg" alt="Typescript" width="40" height="40"/></a> 
-<a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/ReactJS.svg" width="40" height="40" alt="ReactJS" /></a>
-<a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/NextJS.svg" alt="NextJS" width="40" height="40"/></a> 
-<a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Swift.svg" alt="Swift" width="40" height="40"/></a> 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/f5a5274a08a079b963e6040d2151b3d7060b911b/SVG/Arduino.svg" alt="Arduino" width="40" height="40"/></a>
-<a href="https://cloud.google.com/dialogflow" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Dialogflow.svg" alt="Dialogflow" width="40" height="40"/></a>
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/510695290b4651c56510d103bece0ffb70581980/SVG/Unity.svg" alt="Dialogflow" width="40" height="40"/></a>
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Figma.svg"
+    alt="Figma"
+    width="40" height="40"
+    />
+  </a>
+  <a href="https://www.adobe.com/th_en/products/illustrator.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/illustrator.svg"
+    alt="illustrator"
+    width="40" height="40"
+    />
+  </a>
+  <a href="https://affinity.serif.com/en-us/designer" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/AffDesign.svg"
+    alt="Affinity Design" 
+    width="40" height="40"
+    />
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/JavaS.svg" 
+    alt="Javascript" 
+    width="40" height="40"
+    />
+  </a> 
+  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/TypeS.svg"
+    alt="Typescript"
+    width="40" height="40"
+    />
+  </a> 
+  <a href="https://react.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/ReactJS.svg" 
+    width="40" 
+    height="40" alt="ReactJS"
+    />
+  </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/NextJS.svg"
+    alt="NextJS"
+    width="40" height="40"
+    />
+  </a> 
+  <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Swift.svg"
+    alt="Swift" 
+    width="40" height="40"
+    />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/f5a5274a08a079b963e6040d2151b3d7060b911b/SVG/Arduino.svg" 
+    alt="Arduino" 
+    width="40" height="40"
+    />
+  </a>
+  <a href="https://cloud.google.com/dialogflow" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Dialogflow.svg" 
+    alt="Dialogflow"
+    width="40" height="40"
+    />
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/510695290b4651c56510d103bece0ffb70581980/SVG/Unity.svg"
+    alt="Unity"
+    width="40" height="40"
+    />
+  </a>
 </p>
+
 
 ### 📊 Github Stats:
 <p align="left">&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=tinnyxp&show_icons=true&theme=cobalt&title_color=c4ccd4&text_color=c4ccd4&bg_color=11151b&hide_border=true&locale=en" alt="TinnyXP" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinnyxp&show_icons=true&theme=cobalt&title_color=c4ccd4&text_color=c4ccd4&bg_color=11151b&hide_border=true&locale=en&layout=compact" alt="TinnyXP" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tinnyxp&show_icons=true&theme=cobalt&title_color=c4ccd4&text_color=c4ccd4&bg_color=11151b&hide_border=true&locale=en" 
+  alt="TinnyXP" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinnyxp&show_icons=true&theme=cobalt&title_color=c4ccd4&text_color=c4ccd4&bg_color=11151b&hide_border=true&locale=en&layout=compact" 
+  alt="TinnyXP" />
 </p>
 
