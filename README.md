@@ -99,7 +99,8 @@
     />
   </a>
   <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Swift.svg"
+    <img align="center"
+    src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Swift.svg"
     alt="Swift" 
     width="40" height="40"
     />
@@ -137,9 +138,11 @@
 
 ### 📊 Github Stats:
 <p align="left">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=tinnyxp&show_icons=true&theme=cobalt&title_color=c4ccd4&text_color=c4ccd4&bg_color=11151b&hide_border=true&locale=en" 
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api?username=tinnyxp&show_icons=true&theme=cobalt&title_color=c4ccd4&text_color=c4ccd4&bg_color=11151b&hide_border=true&locale=en" 
   alt="TinnyXP" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tinnyxp&show_icons=true&theme=cobalt&title_color=c4ccd4&text_color=c4ccd4&bg_color=11151b&hide_border=true&locale=en&layout=compact" 
+  <img align="center"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=tinnyxp&show_icons=true&theme=cobalt&title_color=c4ccd4&text_color=c4ccd4&bg_color=11151b&hide_border=true&locale=en&layout=compact" 
   alt="TinnyXP" />
 </p>
 
