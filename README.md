@@ -67,8 +67,14 @@
   </a> 
   <a href="https://react.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/ReactJS.svg" 
-    width="40" 
-    height="40" alt="ReactJS"
+    alt="ReactJS"
+    width="40" height="40"
+    />
+  </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/029a19b3f9cf5fd583e71717914ba199a51fb45a/SVG/Flutter.svg"
+    alt="Flutter"
+    width="40" height="40"
     />
   </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
@@ -76,7 +82,13 @@
     alt="NextJS"
     width="40" height="40"
     />
-  </a> 
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/029a19b3f9cf5fd583e71717914ba199a51fb45a/SVG/TailwindCSS.svg"
+    alt="TailwindCSS"
+    width="40" height="40"
+    />
+  </a>
   <a href="https://developer.apple.com/swift" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Swift.svg"
     alt="Swift" 
@@ -92,6 +104,12 @@
   <a href="https://cloud.google.com/dialogflow" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/500c860ebc333636fc9da4f587baf964b955b44f/SVG/Dialogflow.svg" 
     alt="Dialogflow"
+    width="40" height="40"
+    />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/TinnyXP/TinnyXP/029a19b3f9cf5fd583e71717914ba199a51fb45a/SVG/Firebase.svg"
+    alt="Firebase"
     width="40" height="40"
     />
   </a>
